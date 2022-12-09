@@ -4,25 +4,13 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2022/12/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title></title>
+      <link href="/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world!"></a>hello world!</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> xdoj </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<hr><p>title: 本博客的第一篇文章</p><p>date: 2022&#x2F;12&#x2F;09 21.41</p><p>tags: 闲聊</p><p>categories: 生活</p><hr><p>这是我创立本博客的第一篇文章，在这之后我将在本博客分享生活日常，学习文章，以及分享喜欢的音乐和电影等等内容，后期我也会对博客界面进行进一步的美化。</p>]]></content>
       
       
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
       
     </entry>
     
