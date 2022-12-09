@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/12/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+      <title>我博客的第一篇文章</title>
+      <link href="/2022/12/09/%E6%88%91%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/09/%E6%88%91%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>title: 本博客的第一篇文章</p><p>date: 2022&#x2F;12&#x2F;09 21.41</p><p>tags: 闲聊</p><p>categories: 生活</p><p>这是我创立本博客的第一篇文章，在这之后我将在本博客分享生活日常，学习文章，以及分享喜欢的音乐和电影等等内容，后期我也会对博客界面进行进一步的美化。</p>]]></content>
+        <content type="html"><![CDATA[<p> Hello World!</p><p>我是 fogydes ，这是本博客的的第一篇文章，从今日起我将在本博客网站上发布我的生活日常，学习文章，以及分享喜欢的电影、音乐、美食等等内容。</p><p>之后本博客的界面也会逐步美化。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 闲聊 </tag>
+            
+        </tags>
       
     </entry>
     
